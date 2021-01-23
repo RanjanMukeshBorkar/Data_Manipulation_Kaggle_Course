@@ -1,2 +1,2 @@
 # KaggleLearn
-Solution files for Kaggle Courses. 
+Solution files for Data Manipulation(Pandas) Kaggle Course.
